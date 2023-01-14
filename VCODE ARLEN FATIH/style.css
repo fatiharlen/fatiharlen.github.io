@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(240, 192, 240);
+}
+
+#Anime {
+  background-color: rgb(240, 192, 240);
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.tim img{
+  width: 250px;
+  border: 10px solid rgb(0, 0, 0);
+}
